@@ -1,6 +1,7 @@
 ﻿# Geo Data Dashboard
 
 React + Vite dashboard for spatial and tabular project data with synced table and map interactions.
+Project Link: https://geo-maping.netlify.app/
 
 ## Setup
 ```bash
@@ -56,5 +57,5 @@ Honest estimate: ____ hours.
 ## GitHub Link
 Add the repository URL here:
 ```
-https://github.com/<your-username>/<your-repo>
+https://github.com/PRAKASH-VD/GeoMap
 ```
